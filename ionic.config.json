@@ -1,0 +1,7 @@
+{
+  "name": "harcama-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
