@@ -15,8 +15,7 @@ npm install
 ionic serve
 bazen npx ionic serve yazıyorum o da oluyo. 
 
-kodlar src/app/home altında home.page ts html scss var. en üste hocanın istediği yorum satırını yazdım
-
+kodlar src/app/home altında home.page ts html scss var. 
 github: https://github.com/chillaizen/harcama-ionic
 
 iyi calısmalar
