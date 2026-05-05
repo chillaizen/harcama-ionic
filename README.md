@@ -13,7 +13,7 @@ calıstırmak için:
 
 npm install
 ionic serve
-bazen npx ionic serve yazıyorum o da oluyo. tarayıcıda localhost 8100 acılıyo genelde
+bazen npx ionic serve yazıyorum o da oluyo. 
 
 kodlar src/app/home altında home.page ts html scss var. en üste hocanın istediği yorum satırını yazdım
 
